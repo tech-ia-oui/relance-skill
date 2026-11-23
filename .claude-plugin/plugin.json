@@ -1,6 +1,6 @@
 {
   "name": "relance",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Relit tes mails envoyés, trouve qui relancer, calcule l'argent qui dort et prépare les brouillons de relance. N'envoie jamais rien.",
   "author": { "name": "Tiao Bounkhong (Tech·IA·Oui)", "url": "https://www.instagram.com/tech.ia.oui/" },
   "homepage": "https://bounkhong.de/guides/relance-fr",

@@ -1,6 +1,11 @@
 {
   "name": "tech-ia-oui",
-  "owner": { "name": "Tiao Bounkhong (Tech·IA·Oui)" },
+  "owner": {
+    "name": "Tiao Bounkhong (Tech·IA·Oui)"
+  },
+  "metadata": {
+    "description": "Les skills Claude gratuits de Tech·IA·Oui (Tiao) : même si tu codes pas, l'IA va bosser pour toi."
+  },
   "plugins": [
     {
       "name": "relance",
