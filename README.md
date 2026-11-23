@@ -7,7 +7,7 @@ Ce skill gratuit pour Claude relit tes mails envoyés et te sort, en une seule d
 - 💤 **L'argent qui dort** : le total de tes factures impayées et de tes devis sans réponse, en euros.
 - 🔁 **Qui relancer, dans l'ordre** : chaque conversation a un score d'urgence (montant, jours d'attente, échéance).
 - ✍️ **Le brouillon de relance déjà écrit**, dans la bonne conversation, au bon ton : rappel léger à J+3, relance directe à J+7, dernier message à J+14. Pour les factures : rappel, 1re relance, 2e relance, relance ferme, selon le retard.
-- 📥 **Les réponses que TOI tu dois** encore (parce que ça aussi, ça se perd).
+- 📥 **Ce que TOI tu dois** encore : les réponses en attente et les promesses que tu as oubliées (« je vous envoie des créneaux »…).
 - 📅 **Et chaque lundi à 8 h, tout seul**, si tu veux.
 
 **Il n'envoie jamais rien.** Tu relis, tu cliques sur « Envoyer ». Il ne supprime rien, ne déplace rien.
