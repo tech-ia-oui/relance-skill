@@ -1,0 +1,11 @@
+{
+  "name": "tech-ia-oui",
+  "owner": { "name": "Tiao Bounkhong (Tech·IA·Oui)" },
+  "plugins": [
+    {
+      "name": "relance",
+      "source": ".",
+      "description": "Relit tes mails envoyés, trouve qui relancer, calcule l'argent qui dort et prépare les brouillons de relance. N'envoie jamais rien."
+    }
+  ]
+}
